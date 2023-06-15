@@ -18,3 +18,16 @@
 .handle-bottom {
     margin-bottom: -5px;
 }
+
+.handle-resizer {
+    height: 0.75rem !important;
+    width: 0.75rem !important;
+    background-color: #eee !important;
+    border-color: #417896 !important;
+
+}
+
+.line-resizer {
+    background-color: #ea580c;
+    border: 2px !important;
+}
