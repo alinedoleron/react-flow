@@ -1,0 +1,20 @@
+.handle {
+    background-color: #417896;
+    opacity: 80%;
+}
+
+.handle-right {
+    margin-right: -5px;
+}
+
+.handle-left {
+    margin-left: -5px;
+}
+
+.handle-top {
+    margin-top: -5px;
+}
+
+.handle-bottom {
+    margin-bottom: -5px;
+}
